@@ -1,7 +1,6 @@
 ### Hi I'm Kazim 👋
 
-I am a photonics scientist with a background in designing, prototyping, and testing photonic architectures. I am experienced in integrated optical devices, photonic
-neural networks, and global & local optimization algorithms.
+I am a photonics scientist with a background in designing, prototyping, and testing photonic architectures. I am experienced in active and passive integrated photonic devices, integrated photonic networks, and global & local optimization algorithms.
 
 <!--
 **kazimgorgulu/kazimgorgulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
